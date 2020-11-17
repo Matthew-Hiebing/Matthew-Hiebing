@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning about Data Science, Data Analytics, and Web Development.
+- 🌱 I’m currently learning about Data Science, Data Analytics, and Full Stack Web Development.
 - 🔭 Some of my current projects include: an automated unemployment project and a fullstack webdevelopment project using Django and Python.
 ]
 <!--
