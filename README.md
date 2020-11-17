@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning about Data Science, Data Analytics, and Full Stack Web Development.
-- 🔭 Some of my current projects include: an automated unemployment project and a fullstack webdevelopment project using Django and Python.
+- 🔭 Some of my current projects include: an automated selenium project and a fullstack webdevelopment project using Django and Python.
 <!--
 **Hiebs915/Hiebs915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
