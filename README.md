@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I’m currently learning about Data Science, Data Analytics, and Full Stack Web Development through Udemy and YouTube courses.
-- Some of my current projects include: an automated selenium project and a fullstack web development project using Django and Python.
+- Some of my current projects include: an automated unemployment payment request project and an online game for 3rd graders to practice their math skills.  This project will also collect user data that will be able to track the student's progress in subtraction, addition, multiplication, and division.  The results can be seen by the teacher and used to help his/her students progress through their math curriculum.
 <!--
 **Hiebs915/Hiebs915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
