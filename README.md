@@ -8,6 +8,6 @@ I currently work for the Utah Division of Oil, Gas, and Mining as their Informat
 * Building our new O&G website using PHP, SQL, HTML, and CSS
 * Acting as our internal software enhancements project manager and the liaison between O&G staff and our internal/external software development teams
 
-Some of the software/coding languages I work(ed) with include:
+Some of the software/databases/coding languages I work(ed) with include:
 * MSSMS, VSCode, RBDMS
 * React, Django, SQL, PHP, JS, HTML, CSS, and SASS
