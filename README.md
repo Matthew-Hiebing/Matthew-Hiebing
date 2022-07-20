@@ -9,3 +9,5 @@ I currently work for the Utah Division of Oil, Gas, and Mining as their Informat
 Some of the software/databases/coding languages I work(ed) with include:
 * MSSMS, VSCode, RBDMS
 * Python, Django, SQL, PHP, JS, jQuery, React, HTML, CSS, and SASS
+
+If you're interested in my other work, feel free to browse my LinkedIn profile [here](https://www.linkedin.com/in/matthewhiebing/).
