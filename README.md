@@ -10,4 +10,4 @@ Some of the software/databases/coding languages I work(ed) with include:
 * MSSMS, VSCode, RBDMS
 * Python, Django, SQL, PHP, JS, jQuery, React, HTML, CSS, and SASS
 
-If you're interested in my other work, feel free to browse my LinkedIn profile [here](https://www.linkedin.com/in/matthewhiebing/).
+One of my latest projects was a new website for Utah's DNR Oil and Gas division.  [Here]( https://oilgas.utah.gov/) is a link to the in-production site.  If you're interested in my other work, feel free to browse my LinkedIn profile [here](https://www.linkedin.com/in/matthewhiebing/).
