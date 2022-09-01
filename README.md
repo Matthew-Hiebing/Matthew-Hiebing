@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Matt Hiebing.  I am a professionally trained scientist from a Fortune 500 energy exploration company with a passion for technology, automation, robotics, software development, and mechanical keyboards.
+My name is Matt Hiebing.  I am a professionally trained scientist from a Fortune 500 energy exploration company with a passion for technology, automation, software development, robotics, and mechanical keyboards.
 
 I currently work for the Utah Division of Oil, Gas, and Mining as their Information Services Manager.  I am a bit of a jack of all trades but some aspects of the job include:
 * Building simple to complex queries, stored procedures, views, and query emails for the O&G staff and the public
