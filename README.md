@@ -11,5 +11,3 @@ Some of the software/databases/coding languages I work(ed) with include:
 * Python, Django, SQL, PHP, JS, jQuery, React, HTML, CSS, JSON, and SASS
 
 One of my latest projects is a new website for Utah's DNR Oil and Gas Division (DOGM).  [Here]( https://oilgas.utah.gov/) is a link to the in-production site.  If you're interested in my other work, feel free to browse my other projects here on GitHub or view my LinkedIn profile [here](https://www.linkedin.com/in/matthewhiebing/).
-
-I also have several other personal projects that are pinned below.  Please feel free to peruse through them and ask any qeustions, I'm always happy to talk about past projects with people.
