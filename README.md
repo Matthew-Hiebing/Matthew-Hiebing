@@ -1,8 +1,10 @@
 ### Hi there 👋
-My name is Matt Hiebing.  I am a professionally trained scientist from a Fortune 500 energy exploration company with a passion for technology, automation, software development, robotics, and mechanical keyboards.
+My name is Matt Hiebing.  I am a professionally trained scientist from a Fortune 500 energy exploration company with a passion for building.  Whether it be physical or software-related, I've always had an interest in figuring out how things work and rebuilding them.  I've found that software development keeps my interest and lets me persue my passions.
 
-I currently work for the Utah's State Board of Education as a Software Engineer.  I am a bit of a jack of all trades but some aspects of the job include:
+I currently work for the Utah's State Board of Education as a Software Engineer.  Some aspects of the job include:
 * Building simple to complex queries, stored procedures, views, and query emails for teachers, students, administration, and schools across Utah
+* Fixing bugs across several pieces of software following the Agile development method
+* Rebuilding an API that allows 3rd parties to access parts of USBE's database 
 
 Some of the software/databases/coding languages I work(ed) with include:
 * Python, Django, SQL, PHP, JS, jQuery, React, HTML, CSS, JSON, and SASS
