@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Matt Hiebing.  I am a professionally trained scientist from a Fortune 500 energy exploration company with a passion for building.  Whether it be physical or software-related, I've always had an interest in figuring out how things work and rebuilding them.  I've found that software development keeps my interest and lets me persue my passions.
+My name is Matt Hiebing.  I am a professionally trained scientist from a Fortune 500 energy exploration company with a passion for building.  Whether it be physical or software-related, I've always had an interest in figuring out how things work and rebuilding/improving them.  I've found that software development keeps my interest and lets me persue my passions.
 
 I currently work for the Utah's State Board of Education (USBE) as a Software Engineer.  Some aspects of the job include:
 * Building simple to complex queries, stored procedures, views, and query emails for teachers, students, administration, and schools across Utah
