@@ -7,8 +7,8 @@ I currently work for the Utah's State Board of Education (USBE) as a Software En
 * Rebuilding an API that allows 3rd parties to access parts of USBE's database 
 
 Some of the software/databases/coding languages I work(ed) with include:
-* Python, Django, SQL, PHP, JS, jQuery, React, HTML, CSS, JSON, and SASS
-* MSSMS, VSCode, RBDMS, and SQLite
+* Python, Django, .NET, SQL, PHP, JS, jQuery, React, HTML, CSS, JSON, and SASS
+* MSSMS, Visual Studio, VSCode, RBDMS, and SQLite
 
 I espcially enjoy webdevelopment using all flavors of JS as well as Python in Django.
 
