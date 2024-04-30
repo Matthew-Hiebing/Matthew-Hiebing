@@ -4,7 +4,7 @@ My name is Matt Hiebing.  I am a professionally trained scientist from a Fortune
 I currently work for the Utah's State Board of Education (USBE) as a Software Engineer.  Some aspects of the job include:
 * Building simple to complex queries, stored procedures, views, and query emails; set the standard for new queries submitted by our team, enforcing formatting/layout rules.
 * Oversee multiple applications including multiple webpage applications and two API's.
-* Built out the CI/CD pipeline for two API's using TeamCity and Octopus Deploy; our improvements let us develop, test, saving our UTREx and Operations deployment time.
+* Built out the CI/CD pipeline for two API's using TeamCity and Octopus Deploy; our improvements let us easily develop, test, and deploy our work in an efficent manner.
 
 Some of the software/databases/coding languages I work(ed) with include:
 * C#, Python, Django, .NET, SQL, PHP, JS, jQuery, React, HTML, CSS, JSON, and SASS
